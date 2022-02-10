@@ -3,6 +3,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 .headline{
     margin-left: 150px;
@@ -86,6 +87,44 @@ font-weight: 20px;
     margin-left: 23px;
     border-radius: 5px;
 
+}
+.feature-product{
+    display: flex;
+    column-gap: 80px;
+    margin-top: 80px;
+    margin-left: 200px;
+}
+.gear img{height: 180px;
+    width: 280px;
+
+}
+.pera a{
+    background-color:#E02C6D;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 35px;
+    color: white;
+    font-weight: 500;
+}
+.footer{
+    background-color: #9b95f0;
+    margin-top: 70px;
+    align-content: center;
+}
+.soc-icon>a>img{
+    height: 25px;
+   
+    
+
+  
+    
+}
+.soc-icon{
+    padding-left: 720px;
+}
+
+.copyright{
+    text-align: center;
 }
 
 
