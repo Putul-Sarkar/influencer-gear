@@ -1,6 +1,12 @@
 /* fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+ }
+
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
